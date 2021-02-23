@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:e_commerce_app/constants.dart';
-import 'package:e_commerce_app/screens/splash/splash_screen.dart';
+import 'package:k_market_app/constants.dart';
+import 'package:k_market_app/screens/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

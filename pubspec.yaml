@@ -1,5 +1,5 @@
-name: e_commerce_app
-description: E_commerce_app
+name: k_market_app
+description: k_market_app
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
